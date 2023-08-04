@@ -425,7 +425,7 @@ Please be advised that, by logging into UVic's learning systems and interacting 
 
 ### Accessibility
 
-If you have a disability or health consideration that may require supports, please feel free to approach me and/or the [Centre for Accessible Learning (CAL)](https://www.uvic.ca/services/cal/) as soon as possible. CAL staff are available by appointment to assess specific needs, provide referrals, and arrange appropriate supports. I will never ask you to disclose a diagnosis, health consideration, or disability to me, and I know that access needs are social, cultural, and structural issues that aren't always addressed, or adequately addressed, by institutions such as the academy. 
+If you have a disability or health consideration that may require supports, please feel free to approach me and/or the [Centre for Accessible Learning (CAL)](https://www.uvic.ca/accessible-learning/index.php) as soon as possible. CAL staff are available by appointment to assess specific needs, provide referrals, and arrange appropriate supports. I will never ask you to disclose a diagnosis, health consideration, or disability to me, and I know that access needs are social, cultural, and structural issues that aren't always addressed, or adequately addressed, by institutions such as the academy. 
 
 ### Diversity, Equity, and Inclusion 
 
@@ -453,6 +453,6 @@ The [Student Services website](https://www.uvic.ca/studentaffairs/departments/st
 
 ***
 
-Many thanks to [Mark Chen](https://markdangerchen.net/) for their suggestions, including the idea of studying dark patterns in web design, as I wrote this course outline. Thanks as well to [Sara Cassidy](https://www.saracassidywriter.com/) for providing her professional communications perspective with me and sharing her experiences working for the BC Ministry of Health.
+Many thanks to [Mark Chen](https://markdangerchen.net/) for their suggestions, including the idea of studying dark patterns in web design, as I wrote this course outline. Thanks as well to [Sara Cassidy](https://www.saracassidywriter.com/) for providing me with a professional communications perspective and sharing her experiences working for the BC Ministry of Health.
 
 *This syllabus is licensed [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).*

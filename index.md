@@ -72,15 +72,15 @@ I'll use the course Brightspace to:
 
 # Assignments
 
-I am asking you to complete five assignments this term (note that there are no exams, quizzes, tests, or presentations): 
+I am asking you to complete five assignments this term (note that there are no exams, quizzes, tests, or presentations in this course): 
 
-1. Design Log v1: 17.5% of your final grade (due by Friday, September 29th at noon)
-2. Design Log v2 + Site 1: 22.5% of your final grade (due by Friday, October 20th at noon)
-3. Design Log v3: 17.5% of your final grade (due by Friday, November 10th at noon)
-4. Design Log v4 + Site 2: 22.5% of your final grade  (due by Friday, December 1st at noon)
-5. Design Portfolio: 20% of your final grade (due by Friday, December 15th at noon)
+1. **Design Log v1**: 15% of your final grade (due by Friday, September 29th at noon)
+2. **Design Log v2 + Site 1**: 25% of your final grade (due by Friday, October 20th at noon)
+3. **Design Log v3**: 15% of your final grade (due by Friday, November 10th at noon)
+4. **Design Log v4 + Site 2**: 25% of your final grade  (due by Friday, December 1st at noon)
+5. **Design Portfolio**: 20% of your final grade (due by Friday, December 15th at noon)
 
-*Sites 1 and 2*: You will create two websites in this course. You'll use valid HTML to compose the first one (Site 1) on your own and valid HTML and CSS to compose the second one (Site 2) as part of a small team (3-4 people). I will provide a rubric for these websites, and you will submit them (see due dates above) via Brightspace. I will give you some time to work on both sites in class. I will not require you to publish either of these sites online; however, I will show you how to publish them with and without a passcode. Your websites should not contain any advertisements. 
+*Sites 1 and 2*: You will create two websites, using valid HTML to compose the first one (Site 1) on your own and valid HTML and CSS to compose the second one (Site 2) as part of a small team (3-4 people). I will provide a rubric for these websites, and you will submit them (see due dates above) via Brightspace. I will give you some time to work on both sites during class, but you'll need time to work on them between classes, too. I will not require you to publish either site online; however, I will show you how to publish them with and without a passcode. Your websites should not contain any advertisements. 
 
 *Design Log (versions 1-4)*: The design log will be your way to respond informally in writing to workshops we will conduct in class. It'll also help you to track your changes and document your learning throughout the term. Entries will be short (usually 150-250 words, plus media), and I will give you a prompt for each for them. I will provide a rubric for the design log, and you will submit four versions of it (see due dates above) via Brightspace. I encourage you to draft entries in class and refine them (as well as Sites 1 and 2) between meetings. The log should be a single document, and you should continue to add entries to it as you progress through the course. I recommend composing it in a word processor (Word, Docs, Pages, or the like). 
 
@@ -170,7 +170,7 @@ Questions for the module: How is web design about building a relationship? What 
 
 *Friday, September 29th by noon* (no class; just a due date)
 
-* Please use Brightspace to submit Design Log v1 (17.5% of your final mark) in DOCX, RTF, or PDF by noon today. Your log should contain five entries. Be sure to give each of them a title with a timestamp. You don't need to submit a draft of your website (Site 1). 
+* Please use Brightspace to submit Design Log v1 (15% of your final mark) in DOCX, RTF, or PDF by noon today. Your log should contain five entries. Be sure to give each of them a title with a timestamp. You don't need to submit a draft of your website (Site 1). 
 
 *You should have five entries in your design log (version 1) by the end of this week.*
 
@@ -293,7 +293,7 @@ Questions for the module: Which aspects of CSS strike you as essential for the p
 
 *Friday, November 10th by noon* (no class; just a due date)
 
-* Please use Brightspace to submit Design Log v3 (17.5% of your final mark) in DOCX, RTF, or PDF by noon today. Your log should contain twelve entries, four of which I've not read or marked. Be sure to give each of them a title with a timestamp. You don't need to submit a draft of your website (Site 2).
+* Please use Brightspace to submit Design Log v3 (15% of your final mark) in DOCX, RTF, or PDF by noon today. Your log should contain twelve entries, four of which I've not read or marked. Be sure to give each of them a title with a timestamp. You don't need to submit a draft of your website (Site 2).
 
 *You should have twelve entries in your design log (including four for version 3) by the end of this week.*
 

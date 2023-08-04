@@ -249,8 +249,8 @@ Questions for the module: What's involved in the shift from working alone to col
 
 *Thursday, October 26th* 
 
-* Please read BC Public Service's ["Guidelines and Considerations for Expanding Flexible Work in the BC Public Service"](guidelinesAndConsiderationsForAdoptingFlexibleWork.pdf) and Health Quality BC's ["Creating a Teamwork Agreement."](creatingATeamworkAgreement.pdf) You might also consider how questions of genre, media, and community figure into teamwork agreements. 
-* In-class workshop: "Draft a Teamwork Agreement" and "Ways to Collaborate Remotely and Locally" 
+* Please read BC Public Service's ["Guidelines and Considerations for Expanding Flexible Work in the BC Public Service"](guidelinesAndConsiderationsForAdoptingFlexibleWork.pdf) (PDF) and Health Quality BC's ["Creating a Teamwork Agreement"](creatingATeamworkAgreement.pdf) (PDF). You might also consider how questions of genre, media, and community figure into teamwork agreements, and when such agreements might warrant updates or revisions.
+* In-class workshops: "Draft a Teamwork Agreement" and "Ways to Collaborate Remotely and Locally" 
 
 *You should have ten entries in your design log (including two for version 3) by the end of this week.* 
 

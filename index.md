@@ -339,7 +339,7 @@ Question for the module: What are some interesting tensions between perceived pe
 *Monday, November 27th* 
 
 * Please read Mozilla's ["The 'Why' of Web Performance,"](https://developer.mozilla.org/en-US/docs/Learn/Performance/why_web_performance) ["What Is Web Performance?"](https://developer.mozilla.org/en-US/docs/Learn/Performance/What_is_web_performance), ["Perceived Performance,"](https://developer.mozilla.org/en-US/docs/Learn/Performance/Perceived_performance) and ["Measuring Performance."](https://developer.mozilla.org/en-US/docs/Learn/Performance/Measuring_performance)
-* Please also continue to work with your team on Site 2, which should be nearly finished.
+* I recommend continuing to work with your team on Site 2, which should be nearly finished.
 * In-class workshops: "Testing Site 2" and "Two More Meetings with Your Team" 
 
 ## Module 15: Values Redux (Nov. 30)

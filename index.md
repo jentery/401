@@ -31,9 +31,9 @@ The fact that we're gathering here to study web design in a UVic English course 
 
 # Description
 
-In this course, I will teach you how to produce accessible websites in HTML and CSS without the need for databases or content management systems. You'll learn a basic vocabulary for web design alongside many techniques involved in publishing your own content. You'll work on a series of exercises and projects that will develop your knowledge as a writer and web designer, and ultimately you'll create two simple websites. Roughly 60% of the course material will be grounded in style (CSS), encoding (HTML), and publishing, with the other 40% focusing on composing compelling content you want to see in the world. Throughout the course, we'll combine an awareness of values in design with attention to the technical particulars of web development. 
+In this course, I will teach you how to produce accessible websites in HTML and CSS without the need for databases or content management systems. You'll learn a basic vocabulary for web design alongside many techniques involved in publishing your own content. You'll work on a series of exercises and projects that will develop your knowledge as a writer and web designer, and ultimately you'll create two simple websites. Roughly 60% of the course material will be grounded in style (CSS), encoding (HTML), and publishing, with the other 40% dedicated to composing compelling content you want to see in the world. Throughout the course, we'll combine an awareness of values in design with attention to the technical particulars of web development. 
 
-All class sessions will be held in a computer lab. I will assume you've never taken a course on web design or publishing (including HTML and CSS) and that you've never made your own website. 
+All class sessions will be held in a Mac computer lab. I will assume you've never taken a course on web design or publishing (including HTML and CSS) and that you've never made your own website. 
 
 # Goals
 

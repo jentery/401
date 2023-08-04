@@ -92,11 +92,11 @@ I am asking you to complete five assignments this term (note that there are no e
 
 # Workload
 
-The most important thing to know about this course is that *I'll opt for care in every instance.* If the workload becomes too much, or we're juggling more than we should, then we'll cut materials. I've planned for the maximum in advance, under the assumption that we won't get to everything. And that's totally fine.
+The most important thing to know about this course is that *I'll opt for care in every instance.* If the workload becomes too much, or we're juggling more than we should, then we'll cut material. I've planned for the maximum in advance, under the assumption that we won't get to everything. And that's totally fine.
 
 I suggest dedicating 3 to 5 hours of study and practice to English 401 each week, plus 3 hours for weekly meetings (MTh). Of course, 3 to 5 hours per week is only a guideline. You may find that you need more or less time depending on the activity, your preferences, and your own familiarity with the work and materials involved (e.g., perhaps you already know HTML and/or CSS).
 
-I will give you time to work on Site 1, Site 2, your design log, and your design portfolio during class; however, you will need more time (between classes) to develop and refine them, hence the recommended 3 to 5 hours per week.  
+I will give you time to work on Site 1, Site 2, your design log, and your design portfolio during class; however, you will need more time (between classes) to develop and refine your work, hence the recommended 3 to 5 hours per week.  
 
 # Schedule
 

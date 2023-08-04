@@ -256,11 +256,12 @@ Questions for the module: What's involved in the shift from working alone to col
 
 ## Module 9: Your Design Portfolio (Oct. 30)
 
-Questions for the module: Come December, how do you want to document, comment on, and share the work you've done in this course? What audience (other than me or a potential employer) do you have in mind, and how can you meaningfully convey the trajectories of your design practice? 
+Questions for the module: Come December, how do you want to document, comment on, and share the work you've done this term? What audience (other than me or a potential employer) do you have in mind, and how might you creatively convey the trajectories of your design practice? 
 
 *Monday, October 30th* 
 
 * Please coordinate with your team to create a sitemap and even some draft content for Site 2. Avoid scope creep and keep it simple.
+* I also recommend refining entries in your design log. 
 * In-class workshop: "Preparing Your Design Portfolio"
 
 Please note that Tuesday, October 31st is the last day for withdrawing from first term courses without penalty of failure.

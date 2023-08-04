@@ -203,8 +203,8 @@ Questions for the module: When and whether to publish? Must (all of) your projec
 *Thursday, October 12th* 
 
 * Please read UVic's ["Web Publishing and Hosting"](https://www.uvic.ca/systems/support/web/webhosting-students/index.php) and ["Restrict Access to Your Website: macOS"](https://www.uvic.ca/systems/support/web/webhosting-students/restrictmacos.php) / ["Restrict Access to Your Website: Windows"](https://www.uvic.ca/systems/support/web/webhosting-students/restrictwindows.php) as well as Mozilla's ["Publishing Your Website."](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Publishing_your_website) I also recommend experimenting with [Phoenix](https://phcode.dev/), [CodePen](https://codepen.io/), and [GitHub Pages.](https://pages.github.com/)
-* Please also continue to work on the content for your first website (Site 1). It's due next week.
-* In-class workshop: "Options for Web Publishing (Including When Not To)"
+* I recommend refining your log entries between classes and continuing to work on your first website (Site 1). They're due next week.
+* In-class workshop: "Options for Web Publishing (Including When Not to)"
 
 *You should have seven entries in your design log (including two for version 2) by the end of this week.*
 

@@ -112,7 +112,7 @@ Questions for the start of term: Why are you taking this course on web design, w
 
 *Thursday, September 7th*  
 
-* There's no need to prep for our first meeting. We'll introduce ourselves, talk about the course, review this course outline, and discuss what's available in the lab. 
+* There's no need to prep for our first meeting. We'll introduce ourselves, talk about the course, review this outline, and discuss what's available in the Mac lab. 
 * Please re-review this outline after our first meeting and email me any questions or concerns you have. Odds are good I made a mistake, missed something, or skimmed over important information. Don't hesitate to call me on it. 
 
 ## Module 1: Getting Started (Sept. 11 and 14)

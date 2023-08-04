@@ -104,7 +104,7 @@ Here's the schedule for the term. It's subject to change. In fact, I'm 96.42% ce
 
 I will use a Brightspace announcement to notify you at least two weeks in advance of those changes, and I will never use schedule changes to increase your workload (e.g., extra assignments or additional required reading). 
 
-Please note: this course is driven by workshops we'll conduct in the lab during class. I will rarely lecture, and I will rely on the assumption that you read the assigned material prior to our workshops. 
+Please note: this course is driven by workshops we'll conduct in the Mac lab. I will rarely lecture, and I will rely on the assumption that you read the assigned material prior to the pertinent workshops. 
 
 ## Introductions (Sept. 7)
 

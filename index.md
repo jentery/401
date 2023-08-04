@@ -312,21 +312,22 @@ Question for this week: How can I help you with Site 2?
 
 ## Module 12: Styling Text (Nov. 20)
 
-Questions for the module: How is CSS helping you to better understand not only the need for accessibility but also the contexts in which your community or audience will engage your content? How is "good design" a matter of a project's particular values? 
+Questions for the module: How is CSS helping you to better understand not only the need for accessibility but also the contexts in which your community or audience will engage your content? How is "good design" partly a matter of a project's particular values? 
 
 *Monday, November 20th*
 
 * Please read Mozilla's ["Fundamental Text and Font Styling,"](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals) ["Styling Lists,"](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Styling_lists) ["Styling Links,"](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Styling_links) and ["Web Fonts."](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Web_fonts)
-* Please also continue to work with your team on Site 2. Aspects of it should be nearly polished at this point. 
+* I recommend continuing to work with your team on Site 2. Aspects of the site should be nearly polished at this point. 
 * In-class workshop: "How Much CSS Is Too Much CSS?" 
 
 ## Module 13: CSS Layout and More Responsive Design (Nov. 23)
 
-Questions for the module: Where and how do the values of style and web design meet the technical particulars of development? How does the demand for 24/7 content figure into this dynamic? 
+Questions for the module: How do the values of style and web design both correspond and negotiate with the technical particulars of development? How does cultural demand for 24/7 content figure into this dynamic? 
 
 *Thursday, November 23rd* 
 
-* Please read Mozilla's ["Introduction to CSS Layout"](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Introduction) and ["Responsive Design."](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design).
+* Please read Mozilla's ["Introduction to CSS Layout"](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Introduction) and ["Responsive Design."](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design)
+* I recommend refining the entries in your design log. 
 * In-class workshops: "From Lines to Layouts: Your Favourite Examples" and "Attribution for Site 2"
 
 *You should have fourteen entries in your design log (including two for version 4) by the end of this week.*

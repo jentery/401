@@ -165,7 +165,7 @@ Questions for the module: How is web design about building a relationship? What 
 
 *Thursday, September 28th* 
 
-* Please read Mozilla's ["Debugging HTML"](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Debugging_HTML) and ["Structuring a Page of Content."](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Structuring_a_page_of_content) Try ["Marking Up a Letter,"](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Marking_up_a_letter) too, if you want. 
+* Please read Mozilla's ["Debugging HTML"](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Debugging_HTML) and ["Structuring a Page of Content."](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Structuring_a_page_of_content) Try ["Marking Up a Letter"](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Marking_up_a_letter) if you'd like. 
 * In-class workshops: "Sketch a Sitemap for Site 1" and "Validate Your Doc"
 
 *Friday, September 29th by noon* (no class; just a due date)
@@ -187,8 +187,8 @@ Questions for the module: How, and for whom, do you strike the right balance of 
 *Thursday, October 5th* 
 
 * Please read Mozilla's ["Multimedia Embedding,"](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding) ["Images in HTML,"](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML) ["Video and Audio Content,"](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content) ["From Object to Inline Frame,"](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Other_embedding_technologies) and ["Responsive Images."](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images)
-* Please also continue to work on the content for your first website (Site 1). Some of it can still be somewhat rough at this point. Plan to polish it next week, tho. 
-* In-class workshop: "Embed Your Own" and "Responsive Design"
+* Please also continue to work on the content for your first website (Site 1). Some of it can still be rough at this point. Plan to polish it next week, tho. 
+* In-class workshops: "Embed Your Own" and "Responsive Design"
 
 *You should have six entries in your design log (including one for version 2) by the end of this week.*
 

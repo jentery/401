@@ -140,7 +140,7 @@ Questions for the module: How is composing HTML a writing practice? How does it 
 *Monday, September 18th* 
 
 * Please read Mozilla's ["Getting Started with HTML"](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started) and ["What's in the Head? Metadata in HTML."](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML) You might check out [Visual Studio](https://code.visualstudio.com/) and [Brackets](https://brackets.io/), too.
-* Please also begin composing content for your first website (Site 1; see prompt above). Don't worry if it's rough. 
+* I recommend starting on your first website (Site 1; see prompt above), with attention to the content. Don't worry if it's rough. 
 * In-class workshop: "Plain or WYSIWYG?: Getting to Know Your Text Editor"
 
 *Thursday, September 21st*  
@@ -160,7 +160,7 @@ Questions for the module: How is web design about building a relationship? What 
 *Monday, September 25th* 
 
 * Please read Mozilla's ["Advanced Text Formatting"](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Advanced_text_formatting) and ["Document and Website Structure."](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)
-* Please also continue to work on the content for your first website (Site 1). It can still be pretty rough at this point. 
+* I recommend continuing to work on the content for your first website (Site 1). It can still be pretty rough at this point. 
 * In-class workshops: "Markup Your About Me" and "Identifying Your Community Knowledge"
 
 *Thursday, September 28th* 
@@ -187,7 +187,7 @@ Questions for the module: How, and for whom, do you strike the right balance of 
 *Thursday, October 5th* 
 
 * Please read Mozilla's ["Multimedia Embedding,"](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding) ["Images in HTML,"](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML) ["Video and Audio Content,"](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content) ["From Object to Inline Frame,"](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Other_embedding_technologies) and ["Responsive Images."](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images)
-* Please also continue to work on the content for your first website (Site 1). Some of it can still be rough at this point. Plan to polish it next week, tho. 
+* I recommend continuing to work on the content for your first website (Site 1). Some of it can still be rough at this point. Plan to polish it next week, tho. 
 * In-class workshops: "Embed Your Own" and "Responsive Design"
 
 *You should have six entries in your design log (including one for version 2) by the end of this week.*
@@ -217,17 +217,17 @@ Questions for the module: What forms of discrimination do marginalized people ex
 *Monday, October 16th* 
 
 * Please read Mozilla's ["Accessibility,"](https://developer.mozilla.org/en-US/docs/Learn/Accessibility) ["What Is Accessibility?",](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility) ["HTML: A Good Basis for Accessibility,"](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML) ["Accessible Multimedia,"](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/Multimedia) and ["Mobile Accessibility."](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/Mobile) I recommend R. Skjerve et al.'s ["An Intersectional Perspective on Web Accessibility"](skjerveEtAlAnIntersectionalPerspectiveOnWebAccessibility.pdf) and the [Critical Design Lab](https://www.mapping-access.com/) (directed by Dr. Aimi Hamraie), too.
-* Please also continue to work on the content for your first website (Site 1). It should be relatively polished at this point. 
+* I recommend continuing to work on the content for your first website (Site 1). It should be relatively polished at this point. 
 * In-class workshops: "Accounting for Context" and "Accessibility Troubleshooting"
 
 *Thursday, October 19th* 
 
-* Polish and troubleshoot your first website (Site 1) for submission this week. 
-* In-class workshop:  "Invite Feedback and Provide Some, Too"
+* Polish and troubleshoot your first website (Site 1) for submission tomorrow. 
+* In-class workshop: "Invite Feedback and Provide Some, Too"
 
 *Friday, October 20th by noon* (no class; just a due date)
 
-* Please use Brightspace to submit Design Log v2 + Site 1 (22.5% of your final mark) by noon today. Your log should contain eight entries, three of which I've not read or marked. Be sure to give each of them a title with a timestamp. As for your site, you can submit it either as an attachment (if you decided not to publish it) or by providing me with a URL. If you attach it, then be sure to also include any images, audio, and/or video. 
+* Please use Brightspace to submit Design Log v2 + Site 1 (25% of your final mark) by noon today. Your log should contain eight entries, three of which I've not read or marked. Be sure to give each of them a title with a timestamp. As for your site, you can submit it either as an attachment (if you decided not to publish it) or by providing me with a URL. If you attach it, then be sure to include any images, audio, and/or video. (A zipped or compressed folder works well.)
 
 *You should have eight entries in your design log (including three for version 2) by the end of this week.* 
 
@@ -238,7 +238,7 @@ Question for the module: Why bother learning HTML in 2023?
 *Monday, October 23rd* 
 
 * Please review the [syntax for Markdown](https://www.markdownguide.org/basic-syntax/), the [about page for Pandoc](https://pandoc.org/index.html) (install it and give it a try if you wish), the [Wikipedia page for Content Management System](https://en.wikipedia.org/wiki/Content_management_system), and OpenAI's ["GPT-4 Technical Report"](openAIGPT4TechnicalReport.pdf) (the first 14 pages; don't worry about the appendices). I also recommend the ["Greetings, People of Earth"](https://www.thisamericanlife.org/803/transcript) episode of *This American Life*, especially Act One, "First Contact."
-* Please also begin to form your team for Site 2. Teams should consist of three or four people.
+* I recommend forming your team for Site 2. Teams should consist of three or four people.
 * In-class workshops: "Mark It Down" and "Automate It"
 
 *Prompt for Site 2*: The aim of Site 2 echoes that of Site 1 in many ways. Collaborate with two or three other people in this course to use valid HTML and CSS to create a simple website about yourselves that also shares with your audience some [community knowledge](https://www.canada.ca/en/impact-assessment-agency/services/policy-guidance/practitioners-guide-impact-assessment-act/considering-community-knowledge-under-the-impact-assessment-act.html) *that you helped produce*. Again, community knowledge could be related to your post-secondary studies in some way, but it may also be part of a hobby, club, cultural association, occupation, neighbourhood, volunteer job, or union, for instance. Your site can be a single page, and it may include a variety of media (text, audio, images, and/or video). It should not contain any advertisements, and it should not be a blog or replicate the "profile" format of social media. I once again recommend brief and focused content. Avoid scope creep, especially given the time constraints. Feel free to run ideas by me and your peers as you proceed. Your team is not required to publish this site online.

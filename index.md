@@ -272,8 +272,8 @@ Question for the module: How will your team integrate knowledge of CSS with your
 
 *Thursday, November 2nd* 
 
-* Please read Mozilla's ["What Is CSS?"](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS), ["Getting Started with CSS,"](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/Getting_started) ["How CSS Is Structured,"](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/How_CSS_is_structured) and ["How CSS Works."](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/How_CSS_works) CSS can involve a steep learning curve. Don't feel like you need to understand everything in these assigned readings. 
-* In-class workshop: "Getting Started with Style" and "The Look and Feel of Site 2"
+* Please read Mozilla's ["What Is CSS?"](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS), ["Getting Started with CSS,"](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/Getting_started) ["How CSS Is Structured,"](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/How_CSS_is_structured) and ["How CSS Works."](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/How_CSS_works) CSS may involve a steep learning curve. Don't feel like you need to understand everything in these assigned readings. We'll practice it in the lab. 
+* In-class workshops: "Getting Started with Style" and "The Look and Feel of Site 2"
 
 *You should have eleven entries in your design log (including three for version 3) by the end of this week.*
 
@@ -298,7 +298,7 @@ Questions for the module: Which aspects of CSS strike you as essential for the p
 
 *You should have twelve entries in your design log (including four for version 3) by the end of this week.*
 
-## Reading Break and Individualized Feedback (Nov. 13 and 16)
+## Individualized Feedback (Nov. 16)
 
 Question for this week: How can I help you with Site 2? 
 
@@ -308,7 +308,7 @@ Question for this week: How can I help you with Site 2?
 
 *Thursday, November 16th*
 
-* I'll be available via Zoom during class time and by appointment today to provide individualized feedback on Site 2 and your portfolio work. Attendance is optional. 
+* I'll be available via Zoom during class time and by appointment throughout the day to provide individualized feedback on Site 2 and your portfolio work. Attendance is optional. 
 
 ## Module 12: Styling Text (Nov. 20)
 

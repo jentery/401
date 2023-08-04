@@ -344,17 +344,17 @@ Question for the module: What are some interesting tensions between perceived pe
 
 ## Module 15: Values Redux (Nov. 30)
 
-Questions for the module: Now, near the end of the term, what do you make of "translation," "resolution," and "verification" as web design activities? How can each be addressed technically, empirically, and culturally? 
+Questions for the module: Now, near the end of term, what do you make of "translation," "resolution," and "verification" as web design activities? How can each be addressed technically, empirically, and culturally? 
 
 *Thursday, November 30th* 
 
 * Please polish Site 2 for submission tomorrow.
-* Return to Nissenbaum's ["Values in Technical Design,"](nissenbaumValuesInTechnicalDesign.pdf) if you've a moment.
+* Return to Nissenbaum's ["Values in Technical Design"](nissenbaumValuesInTechnicalDesign.pdf) (PDF) if you've a moment.
 * In-class workshop: "One More Meeting with Your Team"
 
 *Friday, December 1st by noon* (no class; just a due date)
 
-* Please use Brightspace to submit Design Log v4 + Site 2 (22.5% of your final mark) by noon today. Your log should contain fifteen entries, three of which I've not read or marked. Be sure to give each of them a title with a timestamp. As for your team's site, you can submit it either as an attachment (if you decided not to publish it) or by providing me with a URL. If you attach it, then be sure to also include any images, audio, and/or video. I know it's redundant, but each team member should submit the team's site for assessment.  
+* Please use Brightspace to submit Design Log v4 + Site 2 (25% of your final mark) by noon today. Your log should contain fifteen entries, three of which I've not read or marked. Be sure to give each of them a title with a timestamp. As for your team's site, you can submit it either as an attachment (if you decided not to publish it) or by providing me with a URL. If you attach it, then be sure to include any images, audio, and/or video. A zipped or compressed file works well here. I know it's redundant, but each team member should submit the team's site for assessment.  
 
 *You should have fifteen entries in your design log (including three for version 4) by the end of this week.*
 

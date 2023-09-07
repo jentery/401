@@ -1,4 +1,4 @@
-**English 401 (DRAFT)**     
+**English 401**     
 Intended for 23 undergraduate students     
 Fall 2023 at the University of Victoria  
 [lək̓ʷəŋən](https://www.songheesnation.ca/community/l-k-ng-n-traditional-territory) and [<u>W</u>SÁNEĆ](https://wsanec.com/) territories  

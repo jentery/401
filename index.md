@@ -391,7 +391,7 @@ Throughout the term, I'll request feedback from you on how the course is going. 
 
 ### Late Submissions and Extensions
 
-I've a 24-hour grace period (no questions asked, no email required, and no penalities) for every assignment in this course. Holidays, reading break, and weekends are exempt from this grace period, meaning you're permitted to submit an assignment that's due by noon on a Friday by noon on a Monday. If that Monday is a holiday or part of reading break, then you've until noon the day UVic returns to classes. 
+I've a 24-hour grace period (no questions asked, no email required, and no penalties) for every assignment in this course. Holidays, reading break, and weekends are exempt from this grace period, meaning you're permitted to submit an assignment that's due by noon on a Friday by noon on a Monday. If that Monday is a holiday or part of reading break, then you've until noon the day UVic returns to classes. 
 
 Please email me if you need an extension for any assignment, and we can discuss possibilities on a case-by-case basis.    
 
@@ -411,7 +411,9 @@ The University of Victoria is committed to promoting, providing, and protecting 
 
 ### Academic Integrity  
 
-We are expected to adhere to [UVic's academic integrity policy](https://www.uvic.ca/current-students/home/academics/academic-integrity/index.php) and be aware of the policies for the evaluation of student work. Violations of the integrity policy will result in a failing grade for the given assignment and may additionally result in a failing grade for the course. By taking this course, you agree that all submitted assignments may be subject to an originality review. I do not use software to detect plagiarism or AI in essays, exams, or any other assignments.
+We are expected to adhere to [UVic's academic integrity policy](https://www.uvic.ca/calendar/future/undergrad/index.php#/policy/Sk_0xsM_V?bc=true&bcCurrent=08%20-%20Policy%20on%20Academic%20Integrity&bcGroup=Undergraduate%20Academic%20Regulations&bcItemType=policies) and be aware of the policies for the evaluation of student work. Violations of the integrity policy may result in a failing grade for the given assignment and may additionally result in a failing grade for the course. By taking this course, you agree that all submitted assignments may be subject to an originality review. I do not use software to detect plagiarism or AI in essays, exams, or any other assignments.
+
+I also recommend the [Libraries' plagiarism guide](https://www.uvic.ca/library/help/citation/plagiarism/) for learning more about academic integrity. You are of course always welcome to talk to me, too. 
 
 ### Copyright 
 

@@ -322,7 +322,7 @@ Questions for the module: How is CSS helping you to better understand not only t
 
 ## Module 13: CSS Layout and More Responsive Design (Nov. 23)
 
-Questions for the module: How do the values of style and web design both correspond and negotiate with the technical particulars of development? How does cultural demand for 24/7 content figure into this dynamic? 
+Questions for the module: How do the values of style and web design negotiate with the technical particulars of development? How does cultural demand for 24/7 content figure into this dynamic? 
 
 *Thursday, November 23rd* 
 

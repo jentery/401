@@ -397,7 +397,7 @@ Please email me if you need an extension for any assignment, and we can discuss 
 
 ### Attendance and Participation
 
-There is no participation or attendance mark in this course; however, this course is driven by workshops and collaborative activities (which are difficult to record), and I will assume you are attending each class meeting. If you are unable to attend a particular meeting, then please email me in advance and coordinate with a peer to get notes and the like from the session(s) you'll miss. *You do not need to provide me with documentation for an absence.*
+There is no participation or attendance mark in this course; however, this course is driven by workshops and collaborative activities, which are difficult to record. I will assume you are attending each class meeting. If you are unable to attend a particular meeting, then please email me in advance and coordinate with a peer to get notes and the like from the session(s) you'll miss. *You do not need to provide me with documentation for an absence.*
 
 ### Communications and Office Hours
 

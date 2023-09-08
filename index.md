@@ -407,7 +407,7 @@ I respond to email between 9am and 5pm, Monday through Friday, excluding holiday
 
 ### Learning Climate  
 
-The University of Victoria is committed to promoting, providing, and protecting a positive, supportive, and safe working and learning environment for all its members. We are expected to adhere to [UVic's equity and human rights policies](https://www.uvic.ca/equity/) and the [Trifaculty Code of Professional Behaviour](https://www.uvic.ca/services/advising/assets/docs/tri-fac-student-code-of-conduct.pdf). You should alert me immediately if you have any questions about these policies and their application, or if you have concerns about course proceedings or participants.
+The University of Victoria is committed to promoting, providing, and protecting a positive, supportive, and safe working and learning environment for all its members. We are expected to adhere to [UVic's equity and human rights policies](https://www.uvic.ca/equity/) and the [Trifaculty Code of Professional Behaviour](https://www.uvic.ca/services/advising/assets/docs/tri-fac-student-code-of-conduct.pdf). You should alert me immediately if you have any questions about these policies and their application or if you have concerns about course proceedings or participants.
 
 ### Academic Integrity  
 

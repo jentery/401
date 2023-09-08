@@ -312,7 +312,7 @@ Question for this week: How can I help you with Site 2?
 
 ## Module 12: Styling Text (Nov. 20)
 
-Questions for the module: How is CSS helping you to better understand not only the need for accessibility but also the contexts in which your community or audience will engage your content? How is "good design" partly a matter of a project's particular values? 
+Questions for the module: How is CSS helping you to better understand not only the need for accessibility but also the contexts in which your community or audience will engage your content? How is “good design” at least partly a matter of what a project values?
 
 *Monday, November 20th*
 

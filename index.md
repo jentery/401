@@ -1,5 +1,5 @@
 **English 401**     
-Intended for 23 undergraduate students     
+Intended for 24 undergraduate students     
 Fall 2023 at the University of Victoria  
 [lək̓ʷəŋən](https://www.songheesnation.ca/community/l-k-ng-n-traditional-territory) and [<u>W</u>SÁNEĆ](https://wsanec.com/) territories  
 M and Th, 1 - 2:20pm    

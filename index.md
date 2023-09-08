@@ -72,7 +72,7 @@ I'll use the course Brightspace to:
 
 # Assignments
 
-I am asking you to complete five assignments this term (note that there are no exams, quizzes, tests, or presentations in this course): 
+I am asking you to complete five assignments this term (note that there are no exams, quizzes, presentations, or participation marks in this course):
 
 1. **Design Log v1**: 15% of your final grade (due by Friday, September 29th at noon)
 2. **Design Log v2 + Site 1**: 25% of your final grade (due by Friday, October 20th at noon)
@@ -82,13 +82,13 @@ I am asking you to complete five assignments this term (note that there are no e
 
 *Sites 1 and 2*: You will create two websites, using valid HTML to compose the first one (Site 1) on your own and valid HTML and CSS to compose the second one (Site 2) as part of a small team (3-4 people). I will provide a rubric for these websites, and you will submit them (see due dates above) via Brightspace. I will give you some time to work on both sites during class, but you'll need time to work on them between classes, too. I will not require you to publish either site online; however, I will show you how to publish them with and without a passcode. Your websites should not contain any advertisements. 
 
-*Design Log (versions 1-4)*: The design log will be your way to respond informally in writing to workshops we will conduct in class. It'll also help you to track your changes and document your learning throughout the term. Entries will be short (usually 150-250 words, plus media), and I will give you a prompt for each for them. I will provide a rubric for the design log, and you will submit four versions of it (see due dates above) via Brightspace. I encourage you to draft entries in class and refine them (as well as Sites 1 and 2) between meetings. The log should be a single document, and you should continue to add entries to it as you progress through the course. I recommend composing it in a word processor (Word, Docs, Pages, or the like). 
+*Design Log (versions 1-4)*: The design log will be your way to respond informally in writing to workshops we will conduct in class. It'll also help you to track your changes and document your learning throughout the term. Entries will be short (usually 150-250 words, plus media), and I will give you a prompt for each of them. I will provide a rubric for the design log, and you will submit four versions of it (see due dates above) via Brightspace. I encourage you to draft entries in class and refine them (as well as Sites 1 and 2) between meetings. The log should be a single document, and you should continue to add entries to it as you progress through the course. I recommend composing it in a word processor (Word, Docs, Pages, or the like). 
 
 *Design Portfolio*: The design portfolio will be your way to curate and comment on your web design work this term. It'll include a brief bio, a general description of not only your design work and experience but also your process (including a statement of values), examples of your individual and collaborative work across Sites 1 and 2 (see above), brief descriptions of those examples, and a statement about where (you hope) your design work is going next. I'll ask you to identify your community and audience (not just me or a potential employer) for the portfolio, which you'll submit as a website or PDF file. 
 
 *Brightspace*: Please use Brightspace (rather than email) to submit all your work. You do not need to purchase any software to use Brightspace; however, you'll need your UVic NetLink ID, access to the internet, and a computer.  
 
-*Feedback*: I will provide feedback on each assignment according to its rubric, with most of my energies dedicated to Versions 1 and 3 of your design log. Please email me or schedule an appointment (F2F or Zoom) to discuss any feedback I provide. Please also note that I'm teaching two courses this term (my other class has 63 students in it) while parenting, conducting research, and directing UVic's Media Studies program. I respond to emails Monday through Friday, 9am - 5pm, excluding holidays. Thanks in advance for your patience. 
+*Feedback*: I will provide feedback on each assignment according to its rubric, with most of my energies dedicated to Versions 1 and 3 of your design log. Please email me or schedule an appointment (F2F or Zoom) to discuss any feedback I provide. Please also note that I'm teaching two courses this term (my other class has 73 students in it) while parenting, conducting research, and directing UVic's Media Studies program. I respond to emails Monday through Friday, 9am - 5pm, excluding holidays. Thanks in advance for your patience. 
 
 # Workload
 

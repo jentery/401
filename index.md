@@ -217,7 +217,7 @@ Questions for the module: What forms of discrimination do marginalized people ex
 *Monday, October 16th* 
 
 * Please read Mozilla's ["Accessibility,"](https://developer.mozilla.org/en-US/docs/Learn/Accessibility) ["What Is Accessibility?",](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility) ["HTML: A Good Basis for Accessibility,"](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML) ["Accessible Multimedia,"](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/Multimedia) and ["Mobile Accessibility."](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/Mobile) I recommend R. Skjerve et al.'s ["An Intersectional Perspective on Web Accessibility"](skjerveEtAlAnIntersectionalPerspectiveOnWebAccessibility.pdf) and the [Critical Design Lab](https://www.mapping-access.com/) (directed by Dr. Aimi Hamraie), too.
-* I recommend continuing to work on the content for your first website (Site 1). It should be relatively polished at this point. 
+* I recommend working on the content for your first website (Site 1). It should be relatively polished at this point. 
 * In-class workshops: "Accounting for Context" and "Accessibility Troubleshooting"
 
 *Thursday, October 19th* 

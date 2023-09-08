@@ -139,7 +139,7 @@ Questions for the module: How is composing HTML a writing practice? How does it 
 
 *Monday, September 18th* 
 
-* Please read Mozilla's ["Getting Started with HTML"](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started) and ["What's in the Head? Metadata in HTML."](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML) You might check out [Visual Studio](https://code.visualstudio.com/) and [Brackets](https://brackets.io/), too.
+* Please read Mozilla's ["Getting Started with HTML"](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started) and ["What's in the Head? Metadata in HTML."](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML) You might check out [Visual Studio Code](https://code.visualstudio.com/) and [Brackets](https://brackets.io/), too.
 * I recommend starting on your first website (Site 1; see prompt above), with attention to the content. Don't worry if it's rough. 
 * In-class workshop: "Plain or WYSIWYG?: Getting to Know Your Text Editor"
 
